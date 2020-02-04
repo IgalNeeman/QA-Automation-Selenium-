@@ -1,7 +1,7 @@
 # QA-Automation-Selenium-
 QA Automation Selenium
 
-בדיקת QA אומציה ראשונה שלי
+בדיקות אוטומציה
 
 התוכנית נכתבה ב JAVA
 כחלק מהעבודה כתבתי קוד שמצלם את המסך גם ב וידאו עם תוספות של JARS
