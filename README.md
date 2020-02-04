@@ -16,6 +16,9 @@ QA Automation Selenium
 הבקשה של ההרשמה בוצע בהצלחה
 הבקשה הגיע למייל
 
+https://github.com/IgalNeeman/QA-Automation-Selenium-/tree/master/selenumP/test-recordings
+
+
 www.getstudy.co.il - אתר לימודים - אתר שאני בניתי לצורך גיוס לידים של אנשים שמעוניינים ללמוד
 
 אשמח לקבל הצעות עבודה מעניינות
